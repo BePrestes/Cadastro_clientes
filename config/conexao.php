@@ -3,7 +3,7 @@ $host = "localhost";
 $port = "5432";
 $dbname = "cadastro_clientes";
 $user = "postgres";
-$password = "@Bernardo0205";
+$password = "@@@@@@@@";
 
 try {
     $conn = new PDO(
